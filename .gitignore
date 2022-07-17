@@ -1,0 +1,5 @@
+.vscode
+suturing_keras_venv
+data
+checkpoints
+wandb
